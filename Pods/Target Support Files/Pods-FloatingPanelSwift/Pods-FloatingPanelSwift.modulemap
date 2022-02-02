@@ -1,0 +1,6 @@
+framework module Pods_FloatingPanelSwift {
+  umbrella header "Pods-FloatingPanelSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
